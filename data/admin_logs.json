@@ -840,5 +840,21 @@
     },
     "timestamp": "2026-11-07T19:44:11.682Z",
     "ip": "127.0.0.1"
+  },
+  {
+    "action": "logout",
+    "adminId": "admin_created_1786869136789",
+    "details": {},
+    "timestamp": "2026-11-07T20:27:10.545Z",
+    "ip": "127.0.0.1"
+  },
+  {
+    "action": "login",
+    "adminId": "admin_created_1786869136789",
+    "details": {
+      "email": "reekypaypal@gmail.com"
+    },
+    "timestamp": "2026-11-07T20:27:27.406Z",
+    "ip": "127.0.0.1"
   }
 ]

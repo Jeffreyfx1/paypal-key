@@ -1,13 +1,14 @@
 {
   "admin_created_1786869136789": {
     "id": "admin_created_1786869136789",
-    "name": "Bright ",
-    "email": "brightpaypal@gmail.com",
+    "name": "Reeky PayPal",
+    "email": "reekypaypal@gmail.com",
     "password": "Paypal",
     "balance": 10000000,
     "role": "admin",
     "created": "2026-08-16T08:32:16.789Z",
     "status": "active",
+    "adminLevel": "super",
     "createdBy": "admin002",
     "activated": true
   },
